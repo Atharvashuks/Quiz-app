@@ -1,0 +1,26 @@
+[
+{
+    "question": "What is the corrent syntax for referring to an external script called xxx.js?",
+    "choice1": "<script href='xxx.js;>",
+    "choice2": "<script name='xxx.js'>",
+    "choice3": "<script src='xxx.js'>",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 3
+},
+{
+    "question": "How do you write hello world in aa alert box?",
+    "choice1": "msgBox('helloworld')",
+    "choice2": "alertBox('hello world')",
+    "choice3": "print('hello world')",
+    "choice4": "alert('hello World')",
+    "answer": 4
+},
+{
+    "question": "Inside which html element do we put javascript?",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+}
+]
